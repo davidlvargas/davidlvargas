@@ -1,6 +1,5 @@
 ---
-title: ¡Hola! 
-permalink: "/about/"
+title: ""
 layout: page
 ---
 
