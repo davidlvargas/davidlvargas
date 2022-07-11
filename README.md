@@ -1,3 +1,9 @@
+---
+title: "About Me"
+permalink: "/about/"
+layout: page
+---
+
 ## ¡Hola! 
 
 <img align="right" width="150" height="200" src="me.jpg">
