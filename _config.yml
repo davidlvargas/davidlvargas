@@ -1,6 +1,6 @@
 title: "David L. Vargas"
 author: "David L. Vargas"
-description: " Personal webpage David Vargas | Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "David L. Vargas | Personal Site "
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,8 +16,9 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
   - {file: "README.md"}
+  - {file: "index.html"}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:davidvar@iadb.org"}
