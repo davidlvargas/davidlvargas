@@ -17,6 +17,9 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About me", file: "README.md"}
+  - {title: "Research +", file: "Research.md"}
+  - {title: "CV", url: "https://www.dropbox.com/s/xxsyzlb5d1v83u8/ENG_CV.pdf?dl=0"}
+  
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
