@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "About me", file: "README.md"}
+  - {title: "About me", file: "index.md"}
   - {title: "Research +", file: "Research.md"}
   - {title: "CV", url: "https://www.dropbox.com/s/xxsyzlb5d1v83u8/ENG_CV.pdf?dl=0"}
   
